@@ -8,4 +8,4 @@ Coding with C++ and develope on the XCode.
 It is uesd for educational purpose.
 
 
-Coding by Yi-Yao Wang,  Ting-You Li and Yi-Wen Wang.
+This project is coding by Yi-Yao Wang,  Ting-You Li and Yi-Wen Wang.
