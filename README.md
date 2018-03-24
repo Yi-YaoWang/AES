@@ -6,7 +6,6 @@ Coding with C++ and develope on the XCode.
 
 
 It is uesd for educational purpose.
-If you have any question you can contact us by justin17728@gmail.com
 
 
 Coding by Yi-Yao Wang,  Ting-You Li and Yi-Wen Wang.
